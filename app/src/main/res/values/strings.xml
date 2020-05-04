@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">tallerFinal</string>
+    <string name="titulo">Datos Personales</string>
+    <string name="codigom">Codigo de matricula</string>
+    <string name="nombre">Nombre Completo.</string>
+    <string name="titulonotas">Ingresa tus notas</string>
+    <string name="nota1">N.1</string>
+    <string name="nota2">N.2</string>
+    <string name="nota3">N.3</string>
+    <string name="btncalcular">Guardar y calcular.</string>
+    <string name="salir">Salir.</string>
+    <string name="titulo2">Ingresa tus notas</string>
+    <string name="resultado">Resultado</string>
+
+
+</resources>
